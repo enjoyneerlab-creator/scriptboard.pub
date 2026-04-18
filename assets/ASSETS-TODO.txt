@@ -1,0 +1,12 @@
+Add your real images here:
+
+- icon-512.png
+- screenshot-editor.png
+- screenshot-board.png
+- social-preview.png
+
+Suggested capture ideas:
+- editor with a loaded Fountain script
+- board or outline view with several scenes
+- clean app icon on transparent or solid background
+- optional banner image for the repository social preview
