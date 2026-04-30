@@ -126,5 +126,3 @@ If you are reporting a problem, please include:
 ## About this repository
 
 This repository is used only for public binary distribution, screenshots, example scripts, and release notes.
-
-The source code is maintained separately in a private repository.
