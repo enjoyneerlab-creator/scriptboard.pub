@@ -1,41 +1,64 @@
 # Scriptboard
 
-Scriptboard is a focused desktop app for turning a screenplay written in Fountain into a structured visual planning workflow: sequences, scenes, beats, shots, storyboard, and animatic export.[web:430][web:458]
+Scriptboard is a focused desktop app for turning a screenplay written in Fountain into a structured visual planning workflow: sequences, scenes, beats, shots, storyboard, and animatic export.
 
-It is designed for writers, directors, and visual storytellers who want to move from script text to shot planning without leaving a compact desktop environment.[web:430][web:461]
+It is designed for writers, directors, and visual storytellers who want to move from script text to shot planning without leaving a compact desktop environment.
+
+## Status
+
+Scriptboard is currently distributed here as a public desktop release repository.
+
+This repository is intended for:
+- public builds and installers
+- release notes
+- screenshots and branding assets
+- example Fountain files
+
+The application source code is maintained separately in a private repository.
 
 ## What Scriptboard does
 
-Scriptboard helps you move from a plain-text Fountain script to a visual production plan.[web:430]
+Scriptboard helps you move from a plain-text Fountain script to a visual production plan.
 
 With Scriptboard, you can:
 
-- open and structure screenplay files written in Fountain.[web:430][web:456]
-- organize the project into sequences, acts, and scenes based on the script structure.[web:430]
-- break scenes into beats and order shots inside those beats as visual storytelling units.[web:458]
-- build a storyboard from planned shots and scene structure.[web:458]
-- shape timing, order, and transitions into an animatic preview.[web:458][web:461]
-- export storyboard and animatic outputs for review and production handoff.[web:459][web:461]
+- open and structure screenplay files written in Fountain
+- organize the project into sequences, acts, and scenes based on the script structure
+- break scenes into beats and order shots inside those beats as visual storytelling units
+- build a storyboard from planned shots and scene structure
+- shape timing, order, and transitions into an animatic preview
+- export storyboard and animatic outputs for review and production handoff
 
 ## Workflow
 
 A typical Scriptboard workflow looks like this:
 
-1. Write or import a screenplay in Fountain format.[web:430][web:456]
-2. Parse the script into sequences, acts, and scenes for planning.[web:430]
-3. Refine scenes into beats and arrange shots inside each beat.[web:458]
-4. Review the visual flow as a storyboard.[web:458]
-5. Build an animatic by timing storyboard panels and transitions.[web:458][web:461]
-6. Export materials for review, planning, or downstream production.[web:459][web:461]
+1. Write or import a screenplay in Fountain format.
+2. Parse the script into sequences, acts, and scenes for planning.
+3. Refine scenes into beats and arrange shots inside each beat.
+4. Review the visual flow as a storyboard.
+5. Build an animatic by timing storyboard panels and transitions.
+6. Export materials for review, planning, or downstream production.
 
 ## Core features
 
-- **Fountain-based scripting** — start from plain-text screenplay files using the Fountain syntax.[web:430][web:456]
-- **Scene planning** — structure scripts into sequences, acts, and scenes for navigation and production planning.[web:430]
-- **Beat and shot organization** — break scenes into dramatic beats and arrange shots inside them to clarify intent and coverage.[web:458]
-- **Storyboard workflow** — turn planned shots into a visual board for review and iteration.[web:458]
-- **Animatic building** — preview pacing by sequencing storyboard images over time, with timing and transitions.[web:458][web:461]
-- **Export for review** — prepare storyboard and animatic outputs for collaboration and delivery.[web:459][web:461]
+- **Fountain-based scripting** — start from plain-text screenplay files using the Fountain syntax
+- **Scene planning** — structure scripts into sequences, acts, and scenes for navigation and production planning
+- **Beat and shot organization** — break scenes into dramatic beats and arrange shots inside them to clarify intent and coverage
+- **Storyboard workflow** — turn planned shots into a visual board for review and iteration
+- **Animatic building** — preview pacing by sequencing storyboard images over time, with timing and transitions
+- **Export for review** — prepare storyboard and animatic outputs for collaboration and delivery
+
+## Screenshots
+
+### Editor
+![Scriptboard editor](./assets/screenshot-editor.png)
+
+### Storyboard
+![Scriptboard storyboard](./assets/screenshot-board.png)
+
+### Animatic
+![Scriptboard animatic](./assets/screenshot-animatic.png)
 
 ## Download
 
@@ -53,7 +76,7 @@ Typical files in each release:
 
 Want to try Scriptboard immediately?
 
-Open the [`examples/`](./examples) folder and download one of the sample `.fountain` files. You can open them in Scriptboard right away to explore script structure, scene planning, and early storyboard workflows.[web:430]
+Open the [`examples/`](./examples) folder and download one of the sample `.fountain` files. You can open them in Scriptboard right away to explore script structure, scene planning, and early storyboard workflows.
 
 Included examples:
 
@@ -69,6 +92,22 @@ Included examples:
 4. Install and launch Scriptboard.
 5. Open one of the sample Fountain files from `examples/`.
 
+## Platform notes
+
+### macOS
+
+On first launch, macOS may warn that Scriptboard is from an unidentified developer.
+
+If that happens:
+1. Open the installed app from Finder with right click → **Open**.
+2. Or go to **System Settings → Privacy & Security** and allow the app to open.
+
+### Windows
+
+Some menu locations may differ from macOS because Windows uses the window menu model instead of the macOS application menu.
+
+Items such as **Settings**, **About**, and **Check for Updates** should be accessed from the standard application menu provided in the Windows build.
+
 ## Feedback
 
 Have an idea, feature request, or bug report?
@@ -83,22 +122,6 @@ If you are reporting a problem, please include:
 - the Scriptboard version
 - a short description of what happened
 - steps to reproduce the issue, if possible
-
-## Suggested assets
-
-Place these files in `assets/`:
-
-- `icon-512.png` — square app icon
-- `screenshot-editor.png` — main writing/editor view
-- `screenshot-board.png` — board or storyboard view
-- `social-preview.png` — optional banner image for sharing
-
-Recommended image sizes:
-
-- `icon-512.png`: 512×512
-- `screenshot-editor.png`: around 1600×1000
-- `screenshot-board.png`: around 1600×1000
-- `social-preview.png`: 1280×640
 
 ## About this repository
 
