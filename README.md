@@ -51,11 +51,14 @@ A typical Scriptboard workflow looks like this:
 
 ## Screenshots
 
-### Editor
-![Scriptboard editor](./assets/screenshot-editor.png)
+### Script
+![Scriptboard editor](./assets/screenshot-script.png)
 
-### Storyboard
-![Scriptboard storyboard](./assets/screenshot-board.png)
+### Scene
+![Scriptboard storyboard](./assets/screenshot-scene.png)
+
+### Timeline
+![Scriptboard storyboard](./assets/screenshot-timeline.png)
 
 ### Animatic
 ![Scriptboard animatic](./assets/screenshot-animatic.png)
