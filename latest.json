@@ -1,31 +1,31 @@
 {
-  "version": "0.1.3",
-  "notes": "Release v0.1.3",
-  "pub_date": "2026-05-01T19:52:33.566Z",
+  "version": "0.1.4",
+  "notes": "Release v0.1.4",
+  "pub_date": "2026-05-02T16:02:34.434Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUThKWEtkWWlzNTZWK0FuVDBxQnpUdHdzSDBlZlM0N21MWEF3d0R5cU1NWU5HSmpFY0dXYzFHUmVSdXBxdFdheHpQajUweXBGeWtIUFMvdkVaai91M1VBZlJYY2g3Y3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjY0NjEzCWZpbGU6U2NyaXB0Ym9hcmQuYXBwLnRhci5negorZk5oZjVLeHZHY01URW5BVjJzZnMvM0ZscE0wdzBwR0NRVWdhdHNyYVdXenZLblUzUUdsS2VoSGx0VEVBT1g1eUMrbW9OMjVXbGNaeFU5cWJYVU5CZz09Cg==",
-      "url": "https://github.com/enjoyneerlab-creator/Scriptboard.pub/releases/download/v0.1.3/Scriptboard_v0.1.3_macos-arm.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUThKWEtkWWlzNStwbW9wa3R6ekZoRFQ0YkI5NXo4NFdxMzY3ZlJRU3VVUUR6QjBiU1ZweVZKbThWS01CSkgzU0tobHA3TzE4Y2xmbGdmOFNWbXh1VytHOEJXenhtVVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NzM3MDUwCWZpbGU6U2NyaXB0Ym9hcmQuYXBwLnRhci5negp2THYvU2R4LzNDZ3ExMnlveUtMa1dDeWF4VkZEdXZPUks0TTlGcm91RlJpUUJMWkFsWWQrNFZBazRLcTRYM3lQYTFKdEIzRnplZFlpdnA2NE9KekxEZz09Cg==",
+      "url": "https://github.com/enjoyneerlab-creator/Scriptboard.pub/releases/download/v0.1.4/Scriptboard_v0.1.4_macos-arm.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUThKWEtkWWlzNTZWK0FuVDBxQnpUdHdzSDBlZlM0N21MWEF3d0R5cU1NWU5HSmpFY0dXYzFHUmVSdXBxdFdheHpQajUweXBGeWtIUFMvdkVaai91M1VBZlJYY2g3Y3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjY0NjEzCWZpbGU6U2NyaXB0Ym9hcmQuYXBwLnRhci5negorZk5oZjVLeHZHY01URW5BVjJzZnMvM0ZscE0wdzBwR0NRVWdhdHNyYVdXenZLblUzUUdsS2VoSGx0VEVBT1g1eUMrbW9OMjVXbGNaeFU5cWJYVU5CZz09Cg==",
-      "url": "https://github.com/enjoyneerlab-creator/Scriptboard.pub/releases/download/v0.1.3/Scriptboard_v0.1.3_macos-arm.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUThKWEtkWWlzNStwbW9wa3R6ekZoRFQ0YkI5NXo4NFdxMzY3ZlJRU3VVUUR6QjBiU1ZweVZKbThWS01CSkgzU0tobHA3TzE4Y2xmbGdmOFNWbXh1VytHOEJXenhtVVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NzM3MDUwCWZpbGU6U2NyaXB0Ym9hcmQuYXBwLnRhci5negp2THYvU2R4LzNDZ3ExMnlveUtMa1dDeWF4VkZEdXZPUks0TTlGcm91RlJpUUJMWkFsWWQrNFZBazRLcTRYM3lQYTFKdEIzRnplZFlpdnA2NE9KekxEZz09Cg==",
+      "url": "https://github.com/enjoyneerlab-creator/Scriptboard.pub/releases/download/v0.1.4/Scriptboard_v0.1.4_macos-arm.app.tar.gz"
     },
     "macos-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUThKWEtkWWlzNTZWK0FuVDBxQnpUdHdzSDBlZlM0N21MWEF3d0R5cU1NWU5HSmpFY0dXYzFHUmVSdXBxdFdheHpQajUweXBGeWtIUFMvdkVaai91M1VBZlJYY2g3Y3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjY0NjEzCWZpbGU6U2NyaXB0Ym9hcmQuYXBwLnRhci5negorZk5oZjVLeHZHY01URW5BVjJzZnMvM0ZscE0wdzBwR0NRVWdhdHNyYVdXenZLblUzUUdsS2VoSGx0VEVBT1g1eUMrbW9OMjVXbGNaeFU5cWJYVU5CZz09Cg==",
-      "url": "https://github.com/enjoyneerlab-creator/Scriptboard.pub/releases/download/v0.1.3/Scriptboard_v0.1.3_macos-arm.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUThKWEtkWWlzNStwbW9wa3R6ekZoRFQ0YkI5NXo4NFdxMzY3ZlJRU3VVUUR6QjBiU1ZweVZKbThWS01CSkgzU0tobHA3TzE4Y2xmbGdmOFNWbXh1VytHOEJXenhtVVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NzM3MDUwCWZpbGU6U2NyaXB0Ym9hcmQuYXBwLnRhci5negp2THYvU2R4LzNDZ3ExMnlveUtMa1dDeWF4VkZEdXZPUks0TTlGcm91RlJpUUJMWkFsWWQrNFZBazRLcTRYM3lQYTFKdEIzRnplZFlpdnA2NE9KekxEZz09Cg==",
+      "url": "https://github.com/enjoyneerlab-creator/Scriptboard.pub/releases/download/v0.1.4/Scriptboard_v0.1.4_macos-arm.app.tar.gz"
     },
     "darwin-arm64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUThKWEtkWWlzNTZWK0FuVDBxQnpUdHdzSDBlZlM0N21MWEF3d0R5cU1NWU5HSmpFY0dXYzFHUmVSdXBxdFdheHpQajUweXBGeWtIUFMvdkVaai91M1VBZlJYY2g3Y3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjY0NjEzCWZpbGU6U2NyaXB0Ym9hcmQuYXBwLnRhci5negorZk5oZjVLeHZHY01URW5BVjJzZnMvM0ZscE0wdzBwR0NRVWdhdHNyYVdXenZLblUzUUdsS2VoSGx0VEVBT1g1eUMrbW9OMjVXbGNaeFU5cWJYVU5CZz09Cg==",
-      "url": "https://github.com/enjoyneerlab-creator/Scriptboard.pub/releases/download/v0.1.3/Scriptboard_v0.1.3_macos-arm.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUThKWEtkWWlzNStwbW9wa3R6ekZoRFQ0YkI5NXo4NFdxMzY3ZlJRU3VVUUR6QjBiU1ZweVZKbThWS01CSkgzU0tobHA3TzE4Y2xmbGdmOFNWbXh1VytHOEJXenhtVVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NzM3MDUwCWZpbGU6U2NyaXB0Ym9hcmQuYXBwLnRhci5negp2THYvU2R4LzNDZ3ExMnlveUtMa1dDeWF4VkZEdXZPUks0TTlGcm91RlJpUUJMWkFsWWQrNFZBazRLcTRYM3lQYTFKdEIzRnplZFlpdnA2NE9KekxEZz09Cg==",
+      "url": "https://github.com/enjoyneerlab-creator/Scriptboard.pub/releases/download/v0.1.4/Scriptboard_v0.1.4_macos-arm.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUThKWEtkWWlzNTRNdm9pN2tSN3RSeXJ2blE5ZXJ3TEFmT0M4TGphVzNXaFdiMHAwRzlVNnVJekp4dkhsUzZXQXF6dXNiRkg4Vk5keDRNdU9RbVJLNnplYUphODdzdUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjY1MTM5CWZpbGU6U2NyaXB0Ym9hcmRfMC4xLjNfeDY0X2VuLVVTLm1zaQo4eUpRUkovQ2lrTjNpS0piNmhDcGZoUUhWT3p5M2dHcGdieGl4YkZQZi9hbWJ0d2svd3BIVXVqakJEdnpoeDViRDQ5dzFTWWZIT1l4MjBRMHQ4NTJEZz09Cg==",
-      "url": "https://github.com/enjoyneerlab-creator/Scriptboard.pub/releases/download/v0.1.3/Scriptboard_v0.1.3_windows-x64.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUThKWEtkWWlzNTdrT3hjTXpCaTQ5RlMyS05xd3ovNUNJeHM5MlNFSFdCdnEydnRDb1g0UjhDaVVBZmdEbVNjeEc4YzhzY01zS3RzMUJXV3dsUUp0T1I3RlNabEg2R2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NzM3NzMxCWZpbGU6U2NyaXB0Ym9hcmRfMC4xLjRfeDY0X2VuLVVTLm1zaQpIYlFINWxZRkhjZ3lVek1Pakh5eVV0bE1JalN3aVdoUVRmaXRBQmY2QVZXdmQ4TEs0NDN2V2tLaCtRT3F0RUt6VlBldUh0emVNbThEemhNWVV4UmtBUT09Cg==",
+      "url": "https://github.com/enjoyneerlab-creator/Scriptboard.pub/releases/download/v0.1.4/Scriptboard_v0.1.4_windows-x64.msi"
     },
     "windows-x64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUThKWEtkWWlzNTRNdm9pN2tSN3RSeXJ2blE5ZXJ3TEFmT0M4TGphVzNXaFdiMHAwRzlVNnVJekp4dkhsUzZXQXF6dXNiRkg4Vk5keDRNdU9RbVJLNnplYUphODdzdUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjY1MTM5CWZpbGU6U2NyaXB0Ym9hcmRfMC4xLjNfeDY0X2VuLVVTLm1zaQo4eUpRUkovQ2lrTjNpS0piNmhDcGZoUUhWT3p5M2dHcGdieGl4YkZQZi9hbWJ0d2svd3BIVXVqakJEdnpoeDViRDQ5dzFTWWZIT1l4MjBRMHQ4NTJEZz09Cg==",
-      "url": "https://github.com/enjoyneerlab-creator/Scriptboard.pub/releases/download/v0.1.3/Scriptboard_v0.1.3_windows-x64.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUThKWEtkWWlzNTdrT3hjTXpCaTQ5RlMyS05xd3ovNUNJeHM5MlNFSFdCdnEydnRDb1g0UjhDaVVBZmdEbVNjeEc4YzhzY01zS3RzMUJXV3dsUUp0T1I3RlNabEg2R2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NzM3NzMxCWZpbGU6U2NyaXB0Ym9hcmRfMC4xLjRfeDY0X2VuLVVTLm1zaQpIYlFINWxZRkhjZ3lVek1Pakh5eVV0bE1JalN3aVdoUVRmaXRBQmY2QVZXdmQ4TEs0NDN2V2tLaCtRT3F0RUt6VlBldUh0emVNbThEemhNWVV4UmtBUT09Cg==",
+      "url": "https://github.com/enjoyneerlab-creator/Scriptboard.pub/releases/download/v0.1.4/Scriptboard_v0.1.4_windows-x64.msi"
     }
   }
 }
